@@ -1,0 +1,65 @@
+/** Header **/
+
+#header-nav {
+	background-color: #E94ED4;
+	border: 0;
+	border-radius: 0;
+	border-bottom: 2.5px solid #000;
+	border-top: 2.5px solid #000;
+	padding: 10px 10px 10px 10px;
+}
+
+/** Food, LLC **/
+.navbar-brand h1 { 
+	font-family: 'Lora', serif;
+	color: #150203;
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .5;
+}
+
+/** Drop Down Menu **/
+#nav-list{
+	background-color: #FA83EA;
+}
+
+#nav-list a {
+	color: #150203;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	color: #E94ED4;
+	background-color: #FEFEFE;
+}
+
+#nav-list a span {
+	font-size: 1.6em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px  solid #150203;
+}
+
+/** Main Content **/
+h2 {
+	color: #150203;
+	font-weight: bold;
+}
+
+h3 {
+  color: #150203;
+  background-color: #E94ED4;
+  font-weight: bold;
+  padding-top: 5px;
+  margin: 10px 0px 0px 0px;      
+  }
+
+p.paragraph {
+	color: #150203;
+	height: 1000px;
+	background-color: #E94ED4;
+	padding: 5px 5px 5px 5px;
+}
